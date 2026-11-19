@@ -1,0 +1,11 @@
+
+origin,destination,transport_cost_per_kg
+Pune,Pune,0
+Pune,Mumbai,8
+Pune,Delhi,25
+Nashik,Nashik,0
+Nashik,Pune,7
+Nashik,Mumbai,15
+Shimla,Shimla,0
+Shimla,Delhi,12
+Shimla,Mumbai,28
