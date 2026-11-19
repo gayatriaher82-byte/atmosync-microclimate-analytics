@@ -1,0 +1,4 @@
+shipment_id,product,origin,destination,average_temperature,maximum_temperature,minimum_temperature,average_humidity,maximum_humidity,minimum_humidity,total_readings
+SH001,Avocado,Pune,Mumbai,8.69,11.88,5.24,69.46,86.49,59.97,5
+SH002,Mango,Nashik,Pune,8.68,14.68,4.3,71.83,87.93,59.29,5
+SH003,Apple,Shimla,Delhi,10.94,14.85,4.44,77.81,82.88,74.86,5
