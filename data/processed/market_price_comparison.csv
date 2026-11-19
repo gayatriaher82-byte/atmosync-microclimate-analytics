@@ -1,0 +1,4 @@
+shipment_id,product,destination,market,price_per_kg,best_market,best_market_price,potential_gain_per_kg,recommendation
+SH001,Avocado,Mumbai,Mumbai,220,Delhi,240,20,Consider rerouting
+SH002,Mango,Pune,Pune,110,Mumbai,130,20,Consider rerouting
+SH003,Apple,Delhi,Delhi,160,Delhi,160,0,Keep current destination
