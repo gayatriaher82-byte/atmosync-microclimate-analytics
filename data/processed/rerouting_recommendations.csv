@@ -1,4 +1,4 @@
-shipment_id,product,current_destination,recommended_destination,best_market_price,transport_cost,net_value_per_kg,estimated_hours_remaining,spoilage_status,decision
-SH001,Avocado,Mumbai,Delhi,240,25,215,3.38,Safe,Consider rerouting
-SH002,Mango,Pune,Mumbai,130,15,115,2.5,Safe,Consider rerouting
-SH003,Apple,Delhi,Delhi,160,12,148,0.0,Critical,Critical - Immediate inspection required
+shipment_id,product,current_destination,recommended_destination,market_price_per_kg,transport_cost_per_kg,net_value_per_kg,estimated_travel_hours,estimated_hours_remaining,spoilage_status,decision
+SH001,Avocado,Mumbai,Mumbai,220.0,8.0,212.0,4.0,3.38,Safe,Critical - No alternative route can arrive in time
+SH002,Mango,Pune,Pune,110.0,7.0,103.0,4.0,2.5,Safe,Critical - No alternative route can arrive in time
+SH003,Apple,Delhi,Immediate inspection,,,,,0.0,Critical,Critical - Immediate inspection required
