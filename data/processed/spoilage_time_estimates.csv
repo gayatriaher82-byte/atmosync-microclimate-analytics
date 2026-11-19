@@ -1,0 +1,4 @@
+shipment_id,product,origin,destination,current_temperature,average_temperature,highest_temperature,estimated_hours_remaining,status
+SH001,Avocado,Pune,Mumbai,5.24,8.690000000000001,11.88,3.38,Safe
+SH002,Mango,Nashik,Pune,7.0,8.678,14.68,2.5,Safe
+SH003,Apple,Shimla,Delhi,14.51,10.943999999999999,14.85,0.0,Critical
