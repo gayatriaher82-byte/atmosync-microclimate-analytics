@@ -1,0 +1,4 @@
+shipment_id,product,origin,destination,average_temperature,highest_temperature,high_risk_readings,moderate_risk_readings,low_risk_readings
+SH001,Avocado,Pune,Mumbai,8.690000000000001,11.88,0,2,3
+SH002,Mango,Nashik,Pune,8.678,14.68,1,1,3
+SH003,Apple,Shimla,Delhi,10.943999999999999,14.85,2,2,1
