@@ -54,3 +54,35 @@ Verified that SHIPMENT\_SENSOR\_DATA exists in the RAW\_DATA schema.
 
 \*\*Status:\*\* Documentation updated successfully.
 
+\## 25 November 2026 – Snowflake Data Loading and Verification
+
+
+
+\- Located the shipment sensor dataset in `data/raw/shipment\_sensor\_data.csv`.
+
+\- Uploaded the CSV file to Snowflake.
+
+\- Loaded data into the existing `ATMOSYNC\_DB.RAW\_DATA.SHIPMENT\_SENSOR\_DATA` table.
+
+\- Successfully inserted 15 rows.
+
+\- Executed SQL COUNT query to verify the records.
+
+\- Confirmed that the total record count is 15.
+
+\- Viewed and verified the loaded shipment records.
+
+
+
+\*\*Status:\*\* CSV data successfully loaded and verified in Snowflake.
+
+
+
+\*\*Next Tasks:\*\*
+
+\- Continue Snowflake data warehouse development.
+
+\- Develop SQL-based shipment analytics.
+
+\- Plan integration with dbt transformations.
+
